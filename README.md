@@ -1,7 +1,6 @@
 # ParkRide — Backend (FastAPI)
 
-Configuración inicial del backend del proyecto **ParkRide**, basada en la
-ficha técnica (Actividad Fundamental 1, Ingeniería de Dispositivos Móviles).
+Configuración inicial del backend del proyecto **ParkRide**.
 
 ## Estructura
 
